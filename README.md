@@ -1,27 +1,18 @@
-# Ngbootstrap
+# Ngbootstrap-Routing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+## Output:
+## Home
 
-## Development server
+![screencapture-localhost-4200-2021-04-11-01_14_51](https://user-images.githubusercontent.com/79576987/114302865-a66a3300-9ae8-11eb-986b-d5b4f2697c26.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## About
 
-## Code scaffolding
+![screencapture-localhost-4200-about-2021-04-11-01_15_18](https://user-images.githubusercontent.com/79576987/114302874-baae3000-9ae8-11eb-9b9e-010cb8ab6867.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Gallery
 
-## Build
+![screencapture-localhost-4200-gallery-2021-04-11-15_13_12](https://user-images.githubusercontent.com/79576987/114302896-d580a480-9ae8-11eb-828d-884d5cd46407.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Contact
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![screencapture-localhost-4200-contact-2021-04-11-01_14_27](https://user-images.githubusercontent.com/79576987/114302921-f812bd80-9ae8-11eb-8bc4-62c51b2bb220.png)
